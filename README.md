@@ -3,7 +3,7 @@
 
  **➡️ The direction I want to go**
 
->Watching CEO Lee Doo-hee of "Like a Cool Lion" solve the mask crisis through the mask notification web, I aimed to become a "web >developer who contributes to society by identifying consumers' inconveniences and providing convenience." I want to be a web >developer who can learn more and listen to various opinions.
+>Watching CEO Lee Doo-hee of "Like a Cool Lion" solve the mask crisis through the mask notification web, I aimed to become a "web developer who contributes to society by identifying consumers' inconveniences and providing convenience." I want to be a web >developer who can learn more and listen to various opinions.
 
 
  **✏️ Skills**
