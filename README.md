@@ -14,5 +14,5 @@
 
 **✔️ Algorithm Rank**
 
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdrl333)](https://solved.ac/rlaghdrl333)-->
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaghdrl333)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdrl333)](https://solved.ac/rlaghdrl333)
+<!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaghdrl333)-->
